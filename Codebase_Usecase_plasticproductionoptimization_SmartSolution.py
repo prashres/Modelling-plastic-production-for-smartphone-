@@ -430,18 +430,4 @@ print(f"\n📈 Predicted Optimal Cycle Time: {cycle_opt:.3f} seconds")
 print(f"📉 Predicted Optimal Scrap Rate: {scrap_opt:.3f}%")
 
 # ------------------------------------------------------------
-# 6️⃣ Interpretation Summary
-# ------------------------------------------------------------
-"""
-🧾 Interpretation:
-
-The optimization identifies the best combination of process parameters
-(e.g., melt flow index, moisture content, injection pressure, cooling time, etc.)
-to achieve maximum production efficiency — i.e., 
-a high cycle time performance with minimal scrap rate.
-
-The predicted optimal cycle time and scrap rate indicate 
-the model’s suggestion for improving overall manufacturing yield 
-while maintaining quality consistency in smartphone base production.
-"""
 
